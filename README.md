@@ -32,9 +32,9 @@
 ### 🌐 Portfolio & Resume
 
 <p align="center">
-  <a href="https://sites.google.com/view/rkhawy/home?authuser=0" target="_blank" rel="noopener noreferrer">💼 <b>Portfolio</b></a>  
+  <a href="https://www.google.com/url?q=https://sites.google.com/view/rkhawy/home?authuser=0" target="_blank" rel="noopener noreferrer">💼 <b>Portfolio</b></a>  
   &nbsp;•&nbsp;
-  <a href="https://flowcv.com/resume/7h9udep1huvf" target="_blank" rel="noopener noreferrer">📄 <b>Resume</b></a>
+  <a href="https://www.google.com/url?q=https://flowcv.com/resume/7h9udep1huvf" target="_blank" rel="noopener noreferrer">📄 <b>Resume</b></a>
 </p>
 
 ---
@@ -42,64 +42,20 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/mostafaelrkhawy7" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/></a>
-  <a href="https://linkedin.com/in/mostafa-elrkhawy" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>
-  <a href="https://www.kaggle.com/mostafaelrkhawy" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="48"/></a>
-  <a href="mailto:mostafaelrkhawy7@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="48"/></a>
-  <a href="https://wa.me/201023365580" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="46"/></a>
+  <a href="https://www.google.com/url?q=https://github.com/mostafaelrkhawy7" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/></a>
+  <a href="https://www.google.com/url?q=https://linkedin.com/in/mostafa-elrkhawy" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>
+  <a href="https://www.google.com/url?q=https://www.kaggle.com/mostafaelrkhawy" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="48"/></a>
+  <a href="https://www.google.com/url?q=mailto:mostafaelrkhawy7@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="48"/></a>
+  <a href="https://www.google.com/url?q=https://wa.me/201023365580" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="46"/></a>
 </p>
 
 ---
 
 ### 🧰 Languages and Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="45"/><br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=numpy" width="45"/><br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=matplotlib" width="45"/><br>Matplotlib
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=seaborn" width="45"/><br>Seaborn
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/><br>SQL Server
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=powerbi" width="45"/><br>Power BI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=excel" width="45"/><br>Excel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=anaconda" width="45"/><br>Anaconda
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="45"/><br>Jupyter
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,anaconda,microsoftsqlserver,powerbi,excel,jupyter,git,github,vscode" height="48" style="margin:6px;">
+</p>
 
 ---
 
