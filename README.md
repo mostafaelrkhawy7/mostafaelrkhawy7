@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/133015521?v=4" 
        alt="Mostafa Elrkhawy" 
-       width="180" 
+       width="200" 
        style="border-radius: 50%; border: 3px solid #00C2CB;" />
 </p>
 
@@ -32,9 +32,9 @@
 ### 🌐 Portfolio & Resume
 
 <p align="center">
-  <a href="https://www.google.com/url?q=https://sites.google.com/view/rkhawy/home?authuser=0" target="_blank" rel="noopener noreferrer">💼 <b>Portfolio</b></a>  
+  <a href="https://sites.google.com/view/rkhawy/home?authuser=0">💼 <b>Portfolio</b></a>  
   &nbsp;•&nbsp;
-  <a href="https://www.google.com/url?q=https://flowcv.com/resume/7h9udep1huvf" target="_blank" rel="noopener noreferrer">📄 <b>Resume</b></a>
+  <a href="https://flowcv.com/resume/7h9udep1huvf">📄 <b>Resume</b></a>
 </p>
 
 ---
@@ -42,11 +42,11 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.google.com/url?q=https://github.com/mostafaelrkhawy7" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/></a>
-  <a href="https://www.google.com/url?q=https://linkedin.com/in/mostafa-elrkhawy" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>
-  <a href="https://www.google.com/url?q=https://www.kaggle.com/mostafaelrkhawy" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="48"/></a>
-  <a href="https://www.google.com/url?q=mailto:mostafaelrkhawy7@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="48"/></a>
-  <a href="https://www.google.com/url?q=https://wa.me/201023365580" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="46"/></a>
+  <a href="https://github.com/mostafaelrkhawy7"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/></a>
+  <a href="https://linkedin.com/in/mostafa-elrkhawy"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>
+  <a href="https://www.kaggle.com/mostafaelrkhawy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="48"/></a>
+  <a href="mailto:mostafaelrkhawy7@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="48"/></a>
+  <a href="https://wa.me/201023365580"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="46"/></a>
 </p>
 
 ---
@@ -54,7 +54,11 @@
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,anaconda,microsoftsqlserver,powerbi,excel,jupyter,git,github,vscode" height="48" style="margin:6px;">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,anaconda,git,github,vscode" height="50" style="margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" height="50" style="margin:6px;"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" height="50" style="margin:6px;"/>
+  <img src="https://img.icons8.com/office/48/000000/ms-excel.png" title="Excel" height="50" style="margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" height="50" style="margin:6px;"/>
 </p>
 
 ---
