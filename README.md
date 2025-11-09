@@ -4,6 +4,7 @@
 
 <!-- Profile Image -->
 <p align="center">
+  <!-- 👇 Replace this link with your own image URL -->
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" 
        alt="Mostafa Elrkhawy" 
        width="150" 
@@ -31,8 +32,8 @@
 
 ### 🌐 Portfolio & Resume
 
-- 💼 **Portfolio:** [Google Site](https://sites.google.com/view/rkhawy/home?authuser=0)  
-- 📄 **Resume:** [FlowCV Profile](https://flowcv.com/resume/7h9udep1huvf)
+- 💼 **Portfolio:** <a href="https://sites.google.com/view/rkhawy/home?authuser=0" target="_blank">Google Site</a>  
+- 📄 **Resume:** <a href="https://flowcv.com/resume/7h9udep1huvf" target="_blank">FlowCV Profile</a>
 
 ---
 
@@ -70,9 +71,11 @@
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,powerbi,excel,git,vscode,github" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" height="50" style="margin-left:10px;" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,anaconda,powerbi,excel,git,github,vscode" height="45" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" height="45" style="margin: 5px; filter: brightness(1.1);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" height="45" style="margin: 5px;"/>
 </p>
+
 
 ---
 
