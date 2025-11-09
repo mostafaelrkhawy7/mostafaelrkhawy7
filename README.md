@@ -4,7 +4,6 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <!-- 👇 Replace this link with your own image URL -->
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" 
        alt="Mostafa Elrkhawy" 
        width="150" 
@@ -53,6 +52,11 @@
   <!-- Kaggle -->
   <a href="https://www.kaggle.com/mostafaelrkhawy" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="45"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:mostafaelrkhawy7@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="45"/>
   </a>
 
   <!-- WhatsApp -->
