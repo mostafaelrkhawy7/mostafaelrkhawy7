@@ -66,8 +66,8 @@
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,anaconda,git,excel,powerbi,vscode,github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,anaconda,powerbi,excel,git,vscode,github" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" height="50" style="margin-left:10px;" />
 </p>
 
 ---
