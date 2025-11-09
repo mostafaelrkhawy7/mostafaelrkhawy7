@@ -3,7 +3,7 @@
 <!-- ============================== -->
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/133015521?v=4)" 
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/133015521?v=4" 
        alt="Mostafa Elrkhawy" 
        width="150" 
        style="border-radius: 50%; border: 2px solid #00C2CB;" />
