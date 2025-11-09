@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/133015521?v=4" 
        alt="Mostafa Elrkhawy" 
-       width="200" 
+       width="230" 
        style="border-radius: 50%; border: 3px solid #00C2CB;" />
 </p>
 
@@ -54,10 +54,14 @@
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,anaconda,git,github,vscode" height="50" style="margin:6px;"/>
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=python,anaconda,git,github,vscode" height="50" style="margin:6px;"/>
+  <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" height="50" style="margin:6px;"/>
+  <!-- BI & Excel -->
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" height="50" style="margin:6px;"/>
   <img src="https://img.icons8.com/office/48/000000/ms-excel.png" title="Excel" height="50" style="margin:6px;"/>
+  <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" height="50" style="margin:6px;"/>
 </p>
 
