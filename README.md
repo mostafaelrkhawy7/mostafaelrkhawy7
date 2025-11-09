@@ -71,11 +71,9 @@
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,anaconda,powerbi,excel,git,github,vscode" height="45" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" height="45" style="margin: 5px; filter: brightness(1.1);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" height="45" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=python,anaconda,powerbi,excel,git,vscode,github" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" height="50" style="margin-left:10px;" />
 </p>
-
 
 ---
 
