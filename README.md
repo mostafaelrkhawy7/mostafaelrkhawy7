@@ -12,7 +12,9 @@
 </p>
 
 <!-- Animated Header -->
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=435&lines=Hi+I'm+Mostafa+Elrkhawy;Data+Analyst;Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" /> </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hi+I'm+Mostafa+Elrkhawy;Data+Analyst;Python+%7C+SQL+Server+%7C+Power+BI+%7C+Excel" alt="Typing SVG" />
+</h1>
 ---
 
 ### 👨‍💻 About Me
