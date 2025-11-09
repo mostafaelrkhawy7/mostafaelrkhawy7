@@ -1,47 +1,77 @@
+<!-- ============================== -->
+<!--     💠 Mostafa Elrkhawy 💠     -->
+<!-- ============================== -->
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Mostafa Elrkhawy" width="150" style="border-radius: 50%; border: 2px solid #00C2CB;" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=435&lines=Hi+I'm+Mostafa+Elrkhawy;Data+Analyst;Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" />
 </h1>
-- 🔭 I'm currently working on **Data analysis projects using Python, Power BI, Excel and SQL**
 
-- 🌱 I'm currently learning **Advanced SQL and Power BI techniques**
+---
 
-- 👯 I'm looking to collaborate on **Open data or business analytics projects**
+### 👨‍💻 About Me
 
-- 🤝 I'm looking for help with **Building data pipelines and learning system design for analytics**
+- 🔭 I'm currently working on **Data analysis projects using Python, Power BI, Excel and SQL**  
+- 🌱 I'm learning **Advanced SQL and Power BI techniques**  
+- 👯 Open to collaborate on **Open data and business analytics projects**  
+- 🤝 Seeking guidance in **Building data pipelines & analytics system design**  
+- 💬 Ask me about **Excel, SQL, Python, Power BI, and Data Visualization**  
+- 📫 Reach me at: **mostafaelrkhawy7@gmail.com**  
+- ⚡ Fun fact: **I love turning messy data into clear insights 📊**  
 
-- 💬 Ask me about **Excel, SQL, Python, Power BI, and data visualization**
+---
 
-- 📫 How to reach me **mostafaelrkhawy7@gmail.com**
+### 🌐 Portfolio & Resume
 
-- ⚡ Fun fact **I love turning messy data into clear insights 📊**
+- 👨‍💻 **Portfolio:** [Google Site](https://sites.google.com/view/rkhawy/home?authuser=0)  
+- 📄 **Resume:** [FlowCV Profile](https://flowcv.com/resume/7h9udep1huvf)
 
-- 👨‍💻 All of my projects are available at **[https://sites.google.com/view/rkhawy/home?authuser=0](https://sites.google.com/view/rkhawy/home?authuser=0)**
+---
 
-- 📄 Know about my experiences **[https://flowcv.com/resume/7h9udep1huvf](https://flowcv.com/resume/7h9udep1huvf)**
+### 🤝 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- GitHub -->
-  <a href="https://github.com/mostafaelrkhawy7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mostafaelrkhawy7" height="30" width="40" />
+<p align="center">
+  <a href="https://github.com/mostafaelrkhawy7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45"/>
   </a>
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/mostafa-elrkhawy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-elrkhawy" height="30" width="40" />
+  <a href="https://linkedin.com/in/mostafa-elrkhawy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45"/>
   </a>
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/mostafaelrkhawy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mostafaelrkhawy" height="30" width="40" />
+  <a href="https://www.kaggle.com/mostafaelrkhawy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" width="45"/>
   </a>
-  <!-- WhatsApp -->
-  <a href="https://wa.me/201023365580" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
+  <a href="https://wa.me/201023365580" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="42"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafaelrkhawy7&show_icons=true&locale=en" alt="mostafaelrkhawy7" /></p>
+### 🧰 Languages and Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaelrkhawy7&" alt="mostafaelrkhawy7" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,matplotlib,anaconda,mysql,git,excel,powerbi" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafaelrkhawy7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaelrkhawy7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaelrkhawy7&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+⭐ **“Data tells stories — I just help people read them.”**
