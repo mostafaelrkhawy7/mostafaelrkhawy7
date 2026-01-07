@@ -2,14 +2,6 @@
 <!--     💠 Mostafa Elrkhawy 💠     -->
 <!-- ============================== -->
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/133015521?v=4" 
-       alt="Mostafa Elrkhawy" 
-       width="230" 
-       style="border-radius: 50%; border: 3px solid #00C2CB;" />
-</p>
-
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=Hi+I'm+Mostafa+Elrkhawy;Data+Analyst;Python+%7C+SQL+Server+%7C+Power+BI+%7C+Excel" alt="Typing SVG" />
