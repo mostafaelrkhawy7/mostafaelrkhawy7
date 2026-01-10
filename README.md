@@ -59,20 +59,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafaelrkhawy7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaelrkhawy7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaelrkhawy7&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ⭐ **“Data tells stories — I just help people read them.”**
