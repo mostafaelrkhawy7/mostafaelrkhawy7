@@ -37,7 +37,7 @@
   <a href="https://linkedin.com/in/mostafa-elrkhawy"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>
   <a href="https://www.kaggle.com/mostafaelrkhawy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="48"/></a>
   <a href="mailto:mostafaelrkhawy7@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="48"/></a>
-  <a href="https://wa.me/201023365580"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="46"/></a>
+  <a href="https://wa.me/201023365580"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="48"/></a>
 </p>
 
 ---
