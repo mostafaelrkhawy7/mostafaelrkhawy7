@@ -34,7 +34,6 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/mostafaelrkhawy7"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/></a>
   <a href="https://linkedin.com/in/mostafa-elrkhawy"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>
   <a href="https://www.kaggle.com/mostafaelrkhawy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="48"/></a>
   <a href="mailto:mostafaelrkhawy7@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="48"/></a>
