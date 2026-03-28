@@ -4,14 +4,14 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=Hi+I'm+Mostafa+Elrkhawy;Data+Analyst;Python+%7C+SQL+Server+%7C+Power+BI+%7C+Excel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=Hi+I'm+Mostafa+Elrkhawy;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Data analysis projects using Python, Power BI, Excel, SQL Server, and Tableau**  
+- 🔭 I’m currently working on **Data analysis projects using Python, Power BI, Excel, SQL, and Tableau**  
 - 🌱 I’m currently learning **Data Engineering fundamentals (ETL, Data Warehousing, SSIS)**  
 - 👯 I’m open to collaborate on **Data analytics, BI, and real-world datasets projects**  
 - 🚀 I’m interested in **Building end-to-end data solutions and dashboards**  
