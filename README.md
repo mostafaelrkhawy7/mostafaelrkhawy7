@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Data analysis projects using Python, Power BI, Excel, and SQL Server**  
-- 🌱 I’m currently learning **Advanced SQL and Power BI techniques**  
-- 👯 I’m open to collaborate on **Open data and business analytics projects**  
-- 🤝 I’m looking for help with **Building data pipelines and analytics system design**  
-- 💬 Ask me about **Excel, SQL, Python, Power BI, and Data Visualization**  
+- 🔭 I’m currently working on **Data analysis projects using Python, Power BI, Excel, SQL Server, and Tableau**  
+- 🌱 I’m currently learning **Data Engineering fundamentals (ETL, Data Warehousing, SSIS)**  
+- 👯 I’m open to collaborate on **Data analytics, BI, and real-world datasets projects**  
+- 🚀 I’m interested in **Building end-to-end data solutions and dashboards**  
+- 💬 Ask me about **Excel, SQL (SQL Server & MySQL), Python, Power BI, Tableau, and Data Visualization**  
 - 📫 Reach me at **mostafaelrkhawy7@gmail.com**  
 - ⚡ Fun fact: **I love turning messy data into clear insights 📊**  
 
@@ -24,9 +24,9 @@
 ### 🌐 Portfolio & Resume
 
 <p align="center">
-  <a href="https://sites.google.com/view/rkhawy/home?authuser=0">💼 <b>Portfolio</b></a>  
+  <a href="https://mostafa-elrkhawy-9s8u08p.gamma.site/">💼 <b>Portfolio</b></a>  
   &nbsp;•&nbsp;
-  <a href="https://flowcv.com/resume/7h9udep1huvf">📄 <b>Resume</b></a>
+  <a href="https://drive.google.com/file/d/1zWY-egMT8_cHhkKdafyf4RMTqpvAWgYQ/view">📄 <b>Resume</b></a>
 </p>
 
 ---
@@ -48,11 +48,21 @@
 <p align="center">
   <!-- Core -->
   <img src="https://skillicons.dev/icons?i=python,anaconda,git,github,vscode" height="50" style="margin:6px;"/>
-  <!-- SQL -->
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="50" style="margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" height="50" style="margin:6px;"/>
-  <!-- BI & Excel -->
+
+  <!-- BI Tools -->
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" height="50" style="margin:6px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" height="50" style="margin:6px;"/>
+
+  <!-- Excel -->
   <img src="https://img.icons8.com/office/48/000000/ms-excel.png" title="Excel" height="50" style="margin:6px;"/>
+
+  <!-- Data Engineering -->
+  <img src="https://img.icons8.com/color/48/data-configuration.png" title="SSIS" height="50" style="margin:6px;"/>
+
   <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" height="50" style="margin:6px;"/>
 </p>
