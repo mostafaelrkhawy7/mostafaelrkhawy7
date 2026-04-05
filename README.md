@@ -29,7 +29,6 @@
   <a href="https://drive.google.com/file/d/1T5bQmwnr6YHoqO1zNgnWPQtjrg3ZlI9B/view" target="_blank">
 📄 <b>Resume</b>
 </a>
----
 
 ### 🤝 Connect with Me
 
