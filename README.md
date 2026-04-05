@@ -26,9 +26,9 @@
 <p align="center">
   <a href="https://mostafa-elrkhawy-9s8u08p.gamma.site/">💼 <b>Portfolio</b></a>  
   &nbsp;•&nbsp;
-  <a href="https://drive.google.com/file/d/1zWY-egMT8_cHhkKdafyf4RMTqpvAWgYQ/view">📄 <b>Resume</b></a>
-</p>
-
+  <a href="https://drive.google.com/file/d/1T5bQmwnr6YHoqO1zNgnWPQtjrg3ZlI9B/view" target="_blank">
+📄 <b>Resume</b>
+</a>
 ---
 
 ### 🤝 Connect with Me
